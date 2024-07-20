@@ -1,6 +1,7 @@
 {
   "name": "integration",
   "version": "1.0.2",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "start": "ts-node src/index.ts"
@@ -15,5 +16,5 @@
     "@ymm-hospital/scheduler": "^1.0.2",
     "ts-node": "^10.9.2"
   },
-  "gitHead": "b552cfd62b2752edc07c160151e5d2cdb59f40cb"
+  "gitHead": "5c31c9e80e2e8e2600d22e18ef582d39a38f61a0"
 }
