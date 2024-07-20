@@ -20,6 +20,5 @@
   "scripts": {
     "test": "node ./__tests__/scheduler.test.js",
     "tsc": "tsc"
-  },
-  "gitHead": "5c31c9e80e2e8e2600d22e18ef582d39a38f61a0"
+  }
 }
