@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.3](https://github.com/Mayamee/lernarepo/compare/v1.4.2...v1.4.3) (2024-07-20)
+
+
+### Bug Fixes
+
+* add public ([f6edb64](https://github.com/Mayamee/lernarepo/commit/f6edb641f72e92ef27d60939296b56aa365100f1))
+
+
+
+
+
 ## [1.4.2](https://github.com/Mayamee/lernarepo/compare/v1.4.1...v1.4.2) (2024-07-20)
 
 
