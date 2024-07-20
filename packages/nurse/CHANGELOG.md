@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.2](https://github.com/Mayamee/lernarepo/compare/v1.4.1...v1.4.2) (2024-07-20)
+
+
+### Bug Fixes
+
+* nurse ([d758a6a](https://github.com/Mayamee/lernarepo/commit/d758a6a9f6d423e169677313e9e13e4077f9b6ef))
+
+
+
+
+
 ## [1.4.1](https://github.com/Mayamee/lernarepo/compare/v1.4.0...v1.4.1) (2024-07-20)
 
 

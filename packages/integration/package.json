@@ -1,6 +1,6 @@
 {
   "name": "integration",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "private": true,
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "description": "",
   "dependencies": {
     "@ymm-hospital/doctor": "^1.3.1",
-    "@ymm-hospital/nurse": "^1.4.1",
+    "@ymm-hospital/nurse": "^1.4.2",
     "@ymm-hospital/patient": "^1.1.0",
     "@ymm-hospital/scheduler": "^1.3.0",
     "ts-node": "^10.9.2"
