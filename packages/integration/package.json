@@ -10,9 +10,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@ymm-hospital/doctor": "^0.0.0",
-    "@ymm-hospital/patient": "^0.0.0",
-    "@ymm-hospital/scheduler": "^0.0.0",
+    "@ymm-hospital/doctor": "^1.0.0",
+    "@ymm-hospital/patient": "^1.0.0",
+    "@ymm-hospital/scheduler": "^1.0.0",
     "ts-node": "^10.9.2"
   }
 }
