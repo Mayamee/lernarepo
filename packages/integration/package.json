@@ -14,5 +14,6 @@
     "@ymm-hospital/patient": "^1.0.0",
     "@ymm-hospital/scheduler": "^1.0.1",
     "ts-node": "^10.9.2"
-  }
+  },
+  "gitHead": "b552cfd62b2752edc07c160151e5d2cdb59f40cb"
 }
