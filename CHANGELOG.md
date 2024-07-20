@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/Mayamee/lernarepo/compare/v1.4.3...v1.5.0) (2024-07-20)
+
+
+### Features
+
+* Doctor can call nurse ([b9f2881](https://github.com/Mayamee/lernarepo/commit/b9f288126a54c50553ed1658b2ec42de0a91180a))
+
+
+
+
+
 ## [1.4.3](https://github.com/Mayamee/lernarepo/compare/v1.4.2...v1.4.3) (2024-07-20)
 
 
