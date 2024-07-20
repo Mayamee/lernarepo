@@ -4,6 +4,7 @@ export class Scheduler {
       id,
       name: "Scheduler",
       surName: "Scheduler Surname",
+      patronimic: "Scheduler Patronimic",
     };
   }
 }
