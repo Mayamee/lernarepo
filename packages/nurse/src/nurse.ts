@@ -6,4 +6,12 @@ export class Nurse {
   greet() {
     return "Hello! I'm a nurse. How can I help you?";
   }
+
+  get(id) {
+    return {
+      id,
+      name: "Nurse",
+      surname: "Nurse Surname",
+    };
+  }
 }

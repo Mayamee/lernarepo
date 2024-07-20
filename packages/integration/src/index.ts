@@ -6,6 +6,7 @@ import { Nurse } from "@ymm-hospital/nurse";
 console.log(
   JSON.stringify({
     doctor: new Doctor().get("asdf"),
+    doctors_nurse: new Doctor().get("asdf").nurse.greet(),
     patient: new Patient().get("test"),
     scheduler: new Scheduler(),
     nurse: new Nurse().greet(),
