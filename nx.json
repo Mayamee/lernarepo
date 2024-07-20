@@ -1,0 +1,19 @@
+{
+  "targetDefaults": {
+    "test": {
+      "dependsOn": []
+    },
+    "tsc": {
+      "cache": true,
+      "dependsOn": [
+        "^tsc"
+      ],
+      "outputs": [
+        "{projectRoot}/lib"
+      ]
+    },
+    "start": {
+      "dependsOn": []
+    }
+  }
+}
