@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/Mayamee/lernarepo/compare/v1.2.0...v1.3.0) (2024-07-20)
+
+
+### Features
+
+* Add patron coroche ([27c5d00](https://github.com/Mayamee/lernarepo/commit/27c5d00517ad89a9e8807065a0cbf2df18424387))
+
+
+
+
+
 # [1.2.0](https://github.com/Mayamee/lernarepo/compare/v1.1.0...v1.2.0) (2024-07-20)
 
 
