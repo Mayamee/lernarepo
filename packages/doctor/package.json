@@ -1,6 +1,6 @@
 {
   "name": "@ymm-hospital/doctor",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "todo: set description",
   "author": "Mayamee <ponyashcat228@gmail.com>",
   "homepage": "",
@@ -22,6 +22,6 @@
     "tsc": "tsc"
   },
   "dependencies": {
-    "@ymm-hospital/nurse": "^1.4.3"
+    "@ymm-hospital/nurse": "^1.6.0"
   }
 }
