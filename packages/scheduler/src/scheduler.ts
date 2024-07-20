@@ -3,6 +3,7 @@ export class Scheduler {
     return {
       id,
       name: "Scheduler",
+      surName: "Scheduler Surname",
     };
   }
 }
