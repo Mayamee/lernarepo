@@ -1,5 +1,8 @@
 export class Patient {
   get(id) {
-    return {};
+    return {
+      id,
+      name: "Patient",
+    };
   }
 }

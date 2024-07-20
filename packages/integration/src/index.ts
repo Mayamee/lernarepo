@@ -5,7 +5,7 @@ import { Scheduler } from "@ymm-hospital/scheduler";
 console.log(
   JSON.stringify({
     doctor: new Doctor().get("asdf"),
-    patient: new Patient(),
+    patient: new Patient().get("test"),
     scheduler: new Scheduler(),
   })
 );
