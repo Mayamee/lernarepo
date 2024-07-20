@@ -1,5 +1,8 @@
 export class Scheduler {
   get(id) {
-    return {};
+    return {
+      id,
+      name: "Scheduler",
+    };
   }
 }
