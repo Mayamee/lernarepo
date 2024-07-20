@@ -7,6 +7,10 @@ export class Nurse {
     return "Hello! I'm a nurse. How can I help you?";
   }
 
+  helpPatient() {
+    return "I'm helping the patient.";
+  }
+
   get(id) {
     return {
       id,
