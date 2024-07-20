@@ -4,6 +4,6 @@ export class Nurse {
   }
 
   greet() {
-    return "Hello, I'm a nurse";
+    return "Hello, I'm a nurse. How can I help you?";
   }
 }
