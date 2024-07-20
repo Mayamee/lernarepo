@@ -1,6 +1,6 @@
 {
   "name": "integration",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "private": true,
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@ymm-hospital/doctor": "^1.6.0",
-    "@ymm-hospital/nurse": "^1.6.0",
+    "@ymm-hospital/doctor": "^1.7.0",
+    "@ymm-hospital/nurse": "^1.7.0",
     "@ymm-hospital/patient": "^1.1.0",
     "@ymm-hospital/scheduler": "^1.3.0",
     "ts-node": "^10.9.2"

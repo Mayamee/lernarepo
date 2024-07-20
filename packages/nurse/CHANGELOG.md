@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.7.0](https://github.com/Mayamee/lernarepo/compare/v1.6.0...v1.7.0) (2024-07-20)
+
+
+### Features
+
+* nurse can help patients ([34df4e0](https://github.com/Mayamee/lernarepo/commit/34df4e06e2ba8090cd68e71624d454d29298e875))
+
+
+
+
+
 # [1.6.0](https://github.com/Mayamee/lernarepo/compare/v1.5.0...v1.6.0) (2024-07-20)
 
 
