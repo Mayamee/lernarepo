@@ -1,6 +1,6 @@
 {
   "name": "integration",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "start": "ts-node src/index.ts"
@@ -12,7 +12,7 @@
   "dependencies": {
     "@ymm-hospital/doctor": "^1.0.0",
     "@ymm-hospital/patient": "^1.0.0",
-    "@ymm-hospital/scheduler": "^1.0.1",
+    "@ymm-hospital/scheduler": "^1.0.2",
     "ts-node": "^10.9.2"
   },
   "gitHead": "b552cfd62b2752edc07c160151e5d2cdb59f40cb"
