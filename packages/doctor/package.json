@@ -20,5 +20,8 @@
   "scripts": {
     "test": "node ./__tests__/doctor.test.js",
     "tsc": "tsc"
+  },
+  "dependencies": {
+    "@ymm-hospital/nurse": "^1.4.3"
   }
 }

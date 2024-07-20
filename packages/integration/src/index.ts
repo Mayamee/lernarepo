@@ -11,3 +11,5 @@ console.log(
     nurse: new Nurse().greet(),
   })
 );
+
+console.log(new Doctor().callNurse());
