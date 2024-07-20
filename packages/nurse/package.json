@@ -22,6 +22,9 @@
     "test": "node ./__tests__/nurse.test.js",
     "tsc": "tsc"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "types": "./lib/nurse.d.ts",
   "bugs": {
     "url": "https://github.com/Mayamee/lernarepo/issues"
